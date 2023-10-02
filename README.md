@@ -1,6 +1,6 @@
 # Haven
 
-Website for authenticated user to track the chechin,checkout and all the data related to the customer
+Website for authenticated user to track the chechin,checkout and all the data related to the customer. Build with React Query and Supabase.
 
 Currently, two official plugins are available:
 
