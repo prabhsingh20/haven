@@ -1,8 +1,5 @@
 # Haven
 
-Website for authenticated user to track the chechin,checkout and all the data related to the customer. Build with React Query and Supabase.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Haven is a small boutique hotel. It is a internal application used inside the hotel by authenticated staff to manage all the activities related to the hotel : guests bookings, check-in/check-out, cabins.
+<br/>
+The key features used in the projects are : React Query, Styled Components, React Hook Form , Authentication, Charts, Dark mode, Supabase : for Backend.
