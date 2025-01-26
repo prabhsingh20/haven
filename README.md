@@ -4,7 +4,7 @@ Haven is a comprehensive hotel management application built for the internal use
 
 ## Preview
 
-Check out the [live demo](#) (Demo link will be added later)
+Check out the [live demo](https://haven-ten.vercel.app/login)
 
 ## Table of Contents
 
