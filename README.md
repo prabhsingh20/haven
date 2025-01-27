@@ -17,8 +17,6 @@ Check out the [live demo](https://haven-ten.vercel.app/login)
 - [License](#license)
 - [Contributing](#contributing)
 
-Sure! Here’s the brief description in the README format:
-
 ---
 
 ## Project Description
